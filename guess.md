@@ -2,16 +2,20 @@
 layout: default
 ---
 
-# 🎲 猜數字挑戰
+# 🎲 猜數字 - 直接執行版
 
-### 🎮 遊戲執行區
-程式碼已由 `guess.ipynb` 自動載入。請點擊程式碼儲存格，按 **Shift + Enter** 開始。
+### 🚀 操作說明
+1. 等待下方視窗載入（程式碼會自動出現）。
+2. 看到程式碼後，點一下該區塊。
+3. 按下鍵盤 **Shift + Enter** 即可開始玩！
 
-<iframe
-  src="https://jupyterlite.github.io/demo/lab/index.html?fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/guess.ipynb"
-  width="100%"
-  height="650px"
-  style="border: 2px solid #007bff; border-radius: 12px;">
-</iframe>
+<div style="width: 100%; border: 2px solid #007bff; border-radius: 12px; overflow: hidden;">
+    <iframe
+      src="https://jupyterlite.github.io/demo/lab/index.html?fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/guess.ipynb"
+      width="100%"
+      height="600px"
+      style="border: none;">
+    </iframe>
+</div>
 
 [⬅️ 回到首頁](index)
