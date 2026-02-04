@@ -10,7 +10,7 @@ layout: default
 
 <div style="width: 100%; border: 2px solid #007bff; border-radius: 12px; overflow: hidden;">
     <iframe
-      src="https://jupyterlite.github.io/demo/lab/index.html?fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/guess.ipynb&kernel=xcpp17"
+      src="https://cpp.jupyterlite.com/lab/index.html?fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/guess.ipynb"
       width="100%"
       height="600px"
       style="border: 2px solid #007bff; border-radius: 12px;">
