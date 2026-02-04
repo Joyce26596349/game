@@ -2,12 +2,14 @@
 layout: default
 ---
 
-# 🎲 猜數字 - 穩定執行版
+# 🎲 猜數字遊戲
 
-### 🚀 操作說明
-1. **點擊右上方綠色按鈕 `Run`**。
+### 🚀 玩遊戲說明
+1. **點擊按鈕**：按下視窗上方的綠色 **[Run]** 按鈕。
+2. **開始輸入**：在下方的黑色視窗（Console）中點一下。
+3. **進行遊戲**：輸入數字並按鍵盤 **Enter** 即可遊玩！
 
-<div style="width: 100%; border: 2px solid #28a745; border-radius: 12px; overflow: hidden;">
+<div style="width: 100%; border: 2px solid #28a745; border-radius: 12px; overflow: hidden; background-color: #1e1e1e;">
     <iframe 
         src="https://www.onlinegdb.com/embed/js/VvL2NAtO0?theme=dark" 
         width="100%" 
