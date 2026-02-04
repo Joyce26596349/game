@@ -13,7 +13,7 @@ layout: default
       src="https://jupyterlite.github.io/demo/lab/index.html?kernel=xcpp17&fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/guess.ipynb"
       width="100%"
       height="600px"
-      style="border: none;">
+      style="border: 2px solid #007bff; border-radius: 12px;">
     </iframe>
 </div>
 
