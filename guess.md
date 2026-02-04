@@ -5,8 +5,8 @@ layout: default
 # 🎲 猜數字 - 直接執行版
 
 ### 🚀 操作說明
-1. 點擊下方的 **「Run」** 按鈕。
-2. 在視窗右側的 **「Input」** 區域輸入數字，按下 Enter 即可互動。
+1. **點擊 Run**：點擊下方視窗綠色的 **[Run]** 按鈕。
+2. **開始互動**：程式執行後，在右側的 **[Input]** 區輸入數字並按 Enter 即可遊玩。
 
 <div style="width: 100%; border: 2px solid #007bff; border-radius: 12px; overflow: hidden;">
     <iframe
