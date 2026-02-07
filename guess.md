@@ -4,10 +4,14 @@ layout: default
 
 # 🎲 猜數字遊戲
 
-### 🚀 玩遊戲說明
-1. 點擊視窗上方綠色的 **[Run]**。
-2. 在下方黑色區域輸入數字，按 **Enter**。
+這是一個經典的數字猜測遊戲，電腦會從 1 到 100 之間挑選一個數字，請試著在最少的次數內猜中它！
 
-<iframe src="https://www.onlinegdb.com/embed/js/VvL2NAtO0?theme=dark" width="100%" height="500px" style="border:2px solid #28a745; border-radius:12px;"></iframe>
+### 🚀 開始執行
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](你的Colab連結)
+
+### 📖 玩法說明
+1. 點擊上方按鈕進入 Google Colab。
+3. 點擊儲存格左側的 **[播放鍵]**。
+4. 在下方出現的輸入框輸入數字，並按 **Enter** 鍵。
 
 [⬅️ 回到首頁](index)
