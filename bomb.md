@@ -2,18 +2,15 @@
 layout: default
 ---
 
-# 💣 終極密碼
+# 💣 定時炸彈 (Bomb)
 
-### 🚀 操作說明
-程式碼已由檔案自動載入。請點擊程式碼區塊並按 **Shift + Enter** 執行。
+這是一個刺激的範圍縮小遊戲。範圍會隨著玩家的輸入越來越小，踩到炸彈的人就輸了！
 
-<div style="width: 100%; border: 2px solid #dc3545; border-radius: 12px; overflow: hidden;">
-    <iframe
-      src="https://jupyterlite.github.io/demo/lab/index.html?kernel=xcpp17&fromURL=https://raw.githubusercontent.com/Joyce26596349/game/main/bomb.ipynb"
-      width="100%"
-      height="600px"
-      style="border: none;">
-    </iframe>
-</div>
+### 🚀 開始執行
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](你的Colab連結)
+
+### 📖 玩法說明
+2. 觀察目前的數字範圍（例如 1 ~ 100）。
+3. 輸入範圍內的數字，直到有人觸發炸彈 💥！
 
 [⬅️ 回到首頁](index)
