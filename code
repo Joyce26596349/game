@@ -31,7 +31,7 @@ string ab(string ans,string guess){ //?A?B函式
 }
 int main() {
     while (true){
-        cout << "輸入不重複的四位數(第一位不為0)位置對且數字對的數為A，只有數字對的為B 猜數字(輸入1111下一輪，輸入0000結束)" << endl;
+        cout << "輸入不重複的四位數(第一位不為0)位置對且數字對的數為A，只有數字對的為B 猜數字(輸入1下一輪，輸入0結束)" << endl;
         string ans = "", s;
         int num[10];
         for (int i = 0; i < 10; i++){
@@ -53,11 +53,11 @@ int main() {
         cin>>s;
         int count = 0;
         while (true){
-            if (s == "1111"){
+            if (s == "1"){
                 cout << "下一輪" << endl;
                 break;
             }
-            if (s == "0000"){
+            if (s == "0"){
                 cout << "遊戲結束" << endl;
                 return 0;
             }
